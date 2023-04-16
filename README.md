@@ -20,6 +20,6 @@ For example: "pip install sklearn"
 
 You can also read the very detailed information and description of the scheme of work, which is in the file of my work "Masterarbeit Skorobogatov Maksim PDF format"
 
-If there are any problems or bugs, please contact me. My name is Skorobogatov Maksim (email adress: skorobogatovma83902@th-nuernberg.de)
+If there are any problems or bugs, please contact me. My name is Skorobogatov Maksim (email adress: makskorobogat@gmail.com)
 
 Have fun!
